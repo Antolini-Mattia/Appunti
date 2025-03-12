@@ -13,4 +13,4 @@
 12) [Campus Marconi](https://campus.marconivr.it/mod/page/view.php?id=155794)
 13) Vai alla pagina successiva [pagina successiva][pagina dopo]
 14) [pagina dopo]: https://github.com/Antolini-Mattia/Appunti/blob/main/pagina%20successiva
-15) ![](https://it.wikipedia.org/wiki/Dio_Padre#/media/File:Cima_da_Conegliano,_God_the_Father.jpg)
+15) ![dio](https://it.wikipedia.org/wiki/Dio_Padre#/media/File:Cima_da_Conegliano,_God_the_Father.jpg)
