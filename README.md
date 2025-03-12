@@ -13,3 +13,4 @@
 12) [Campus Marconi](https://campus.marconivr.it/mod/page/view.php?id=155794)
 13) Vai alla pagina successiva [pagina successiva][pagina dopo]
 14) [pagina dopo]: https://github.com/Antolini-Mattia/Appunti/blob/main/pagina%20successiva
+15) ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonic-puzzles.it%2Fproducts%2Fmilan-logo-official-wooden-puzzle&psig=AOvVaw2EReWo72NZIW56JBCCmo9L&ust=1741857755955000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiL-febhIwDFQAAAAAdAAAAABAE)
