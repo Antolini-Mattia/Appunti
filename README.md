@@ -12,4 +12,4 @@
 11) _E poi ..._
 12) [Campus Marconi](https://campus.marconivr.it/mod/page/view.php?id=155794)
 13) Vai alla pagina successiva [pagina successiva] [pagina dopo]
-[pagina dopo]: https://github.com/Antolini-Mattia/Appunti/blob/main/pagina%20successiva
+14) [pagina dopo]: https://github.com/Antolini-Mattia/Appunti/blob/main/pagina%20successiva
