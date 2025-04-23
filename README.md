@@ -15,5 +15,3 @@
 15) [pagina dopo]: https://github.com/Antolini-Mattia/Appunti/blob/main/pagina%20successiva
 .........................................................................................................
   ![](https://it.wikipedia.org/wiki/Dio_Padre#/media/File:Cima_da_Conegliano,_God_the_Father.jpg)
-  Un'altro metodo:![][dio]
-  [dio]:https://it.wikipedia.org/wiki/Dio_Padre#/media/File:Cima_da_Conegliano,_God_the_Father.jpg
